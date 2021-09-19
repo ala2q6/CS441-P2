@@ -1,2 +1,2 @@
 ## CS441P2
-> CS441: Project 2
+> [University of Missouri - Kansas City](https://www.umkc.edu/): CS441: Project 2
